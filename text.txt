@@ -1,1 +1,2 @@
 My first test file for git
+We are updating the file
